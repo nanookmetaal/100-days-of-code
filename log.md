@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -21,10 +21,10 @@
 
 ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I have started writing a blog article - focusing on staying concise and having flow in my writing. Identified a small issue with my Yeoman-based draft generator - it attempts to run `npm install` by default. I will add a fix to remove it and publish a new version to npm. Lastly, I need to get the github action to work that will automate publishing of my package on new release.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:**
+1. [Published articles](https://nanookmetaal.com/)
+2. [Blog page draft generator](https://www.npmjs.com/package/generator-blog-draft)
